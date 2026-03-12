@@ -38,6 +38,7 @@ Sou desenvolvedor com formação técnica em Informática pelo IFSP e atualmente
 ---
 
 <br>
+
 # English Version 🌎
 # Hi, I'm Guilherme de Souza Cintra 👋
 
