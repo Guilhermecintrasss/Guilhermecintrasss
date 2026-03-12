@@ -1,17 +1,29 @@
+# Olá, Sou Guilherme de Souza Cintra 👋
+
+🎓 Estudante de Engenharia de Computação — UFMS
+Sou desenvolvedor com formação técnica em Informática pelo IFSP e atualmente cursando Engenharia de Computação. Tenho interesse em desenvolvimento backend, APIs, análise de dados e automação, buscando sempre aplicar lógica, organização e boas práticas de desenvolvimento.
+
+🚀 Tecnologias e conhecimentos:
+• PHP • C++ • SQL
+• HTML • CSS
+• Estruturas de Dados & Algoritmos
+• Integração de APIs
+• Modelagem de Banco de Dados
+
+📊 Atualmente participo de projetos envolvendo análise e processamento de dados, além de explorar novas tecnologias e desenvolver soluções práticas.
+
+
 # Hi, I'm Guilherme de Souza Cintra 👋
 
-[cite_start]I'm a Computer Engineering student at UFMS  [cite_start]with a technical background in IT from IFSP.
-[cite_start]I focus on Backend Development, APIs, and Data Analysis[cite: 2, 6].
+🎓 Computer Engineering Student — UFMS
 
-### 🛠 Tech Stack
-- [cite_start]**Languages:** PHP, C++, SQL, HTML, CSS 
-- [cite_start]**Specialties:** Data Structures (Binary Trees, QuickSort), API Integration [cite: 12, 13]
-- [cite_start]**Databases:** Relational Modeling & SQL [cite: 14]
+I am a developer with a technical background in Information Technology from IFSP and currently pursuing a degree in Computer Engineering. My main interests are backend development, APIs, data analysis, and automation, always focusing on clean logic, structured development, and problem solving.
 
-### 🚀 Featured Projects
-- [cite_start]**PET Saúde Digital (UFMS):** Working on data analysis and processing for public health units[cite: 22, 23].
-- [cite_start]**Gemini AI Integration:** Developing systems for intelligent automated responses[cite: 20, 21].
-- [cite_start]**Web Systems:** Full-stack development with PHP and relational databases[cite: 17, 18].
+🚀 Technologies & Skills:
+• PHP • C++ • SQL
+• HTML • CSS
+• Data Structures & Algorithms
+• API Integration
+• Database Modeling
 
----
-📫 How to reach me: [Your Email] | [LinkedIn]
+📊 Currently involved in projects related to data analysis and data processing, while continuously exploring new technologies and building practical solutions.
