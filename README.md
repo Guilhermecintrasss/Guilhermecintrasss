@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Guilherme de Souza Cintra 👋
 
-<!--
-**Guilhermecintrasss/Guilhermecintrasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]I'm a Computer Engineering student at UFMS  [cite_start]with a technical background in IT from IFSP.
+[cite_start]I focus on Backend Development, APIs, and Data Analysis[cite: 2, 6].
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- [cite_start]**Languages:** PHP, C++, SQL, HTML, CSS 
+- [cite_start]**Specialties:** Data Structures (Binary Trees, QuickSort), API Integration [cite: 12, 13]
+- [cite_start]**Databases:** Relational Modeling & SQL [cite: 14]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- [cite_start]**PET Saúde Digital (UFMS):** Working on data analysis and processing for public health units[cite: 22, 23].
+- [cite_start]**Gemini AI Integration:** Developing systems for intelligent automated responses[cite: 20, 21].
+- [cite_start]**Web Systems:** Full-stack development with PHP and relational databases[cite: 17, 18].
+
+---
+📫 How to reach me: [Your Email] | [LinkedIn]
