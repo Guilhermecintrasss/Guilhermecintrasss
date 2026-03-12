@@ -1,3 +1,5 @@
+[Português](#olá-sou-guilherme-de-souza-cintra-) | [English](#hi-im-guilherme-de-souza-cintra-)
+<br>
 # Olá, Sou Guilherme de Souza Cintra 👋
 
 🎓 **Estudante de Engenharia de Computação — UFMS**
@@ -30,9 +32,13 @@ Sou desenvolvedor com formação técnica em Informática pelo IFSP e atualmente
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-souza-cintra/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermecintras)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecintrass@gmail.com)
+<br>
+<br>
 
-__________________________________________________________________________________________________________________________________________________________________
+---
 
+<br>
+# English Version 🌎
 # Hi, I'm Guilherme de Souza Cintra 👋
 
 🎓 **Computer Engineering Student — UFMS**
