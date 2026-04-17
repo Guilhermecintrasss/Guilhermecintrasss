@@ -10,20 +10,23 @@ Sou desenvolvedor com formação técnica em Informática pelo IFSP e atualmente
 
 ### 🚀 Tecnologias e Conhecimentos
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-* **Lógica & Backend:** Estruturas de Dados (Árvores Binárias, QuickSort) e Integração de APIs.
-* **Dados:** Modelagem de Banco de Dados Relacional e análise de dados.
+* **Desenvolvimento Web & UI:** Criação de interfaces dinâmicas e modernas utilizando **React**.
+* **Automação & Workflow:** Design de fluxos automatizados e integração de sistemas via **n8n**.
+* **Lógica & Backend:** Estruturas de Dados, Integração de APIs (REST) e desenvolvimento em PHP/C++.
+* **Dados:** Processamento de grandes bases de dados com **Python (Pandas)** e modelagem SQL.
 
 ---
 
 ### 📊 Projetos Atuais
-* **PET Saúde Digital (UFMS):** Atuo na análise e processamento de dados para melhoria de Unidades Básicas de Saúde.
-* **Integração IA:** Desenvolvimento de aplicações utilizando a API do Gemini.
+* **PET Saúde Digital (UFMS):** Atuo na análise e processamento de dados (SIVEP-Gripe) para melhoria de Unidades Básicas de Saúde.
+* **Integração IA:** Desenvolvimento de aplicações utilizando a API do Gemini para automação e análise inteligente.
 
 ---
 
@@ -43,26 +46,29 @@ Sou desenvolvedor com formação técnica em Informática pelo IFSP e atualmente
 
 🎓 **Computer Engineering Student — UFMS**
 
-I am a developer with a technical background in Information Technology from IFSP and currently in my 5th semester of Computer Engineering. My main interests are backend development, APIs, data analysis, and automation, always focusing on clean logic, structured development, and problem-solving.
+I am a developer with a technical background in IT from IFSP and currently in my 5th semester of Computer Engineering. My main interests are backend development, APIs, data analysis, and automation, always focusing on clean logic, structured development, and problem-solving.
 
 ---
 
 ### 🚀 Technologies & Skills
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-* **Logic & Backend:** Data Structures (Binary Trees, QuickSort) and API Integration.
-* **Data:** Relational Database Modeling and data analysis.
+* **Web Development & UI:** Building dynamic and modern interfaces using **React**.
+* **Automation & Workflow:** Designing automated workflows and system integrations via **n8n**.
+* **Logic & Backend:** Data Structures, API Integration (REST), and PHP/C++ development.
+* **Data:** Large-scale data processing with **Python (Pandas)** and Relational Database modeling.
 
 ---
 
 ### 📊 Current Projects
-* **Digital Health (PET Saúde Digital - UFMS):** Working on data analysis and processing to improve public health units.
-* **AI Integration:** Developing applications exploring the Gemini API and system communication.
+* **Digital Health (PET Saúde Digital - UFMS):** Working on data analysis and processing (public health databases) to improve health units.
+* **AI Integration:** Developing applications exploring the Gemini API and intelligent automation.
 
 ---
 
