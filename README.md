@@ -2,25 +2,42 @@
 
 # Guilherme de Souza Cintra
 
-Estudante de Engenharia de Computação na UFMS (formatura prevista em 2028).
-Engenharia de software com foco em IA generativa e aplicações baseadas em LLMs. Inglês avançado.
+## Sobre mim
+
+Graduando em Engenharia de Computação na UFMS. Desenvolvo projetos de pesquisa e soluções para problemas reais com LLMs.
+
+## Projetos
+
+**Análise de processos do TJMS (LIA, UFMS)**
+Sistema baseado em LLMs para apoiar a análise de processos do Tribunal de Justiça de MS.
+`Python` `Prompt engineering` `Avaliação de LLMs`
+
+**Assistente virtual com banco de dados (Tecsinapse, freelance)**
+Agente de IA que consulta banco de dados, usado como assistente de uma empresa do setor automobilístico.
+`n8n` `OpenRouter` `GPT mini` `Prompt engineering` `Banco de dados`
+
+**Balança inteligente (UFMS)**
+Sistema de pesagem que integra hardware e LLM no fluxo operacional.
+`ESP32` `Sensores de carga` `Integração de LLM`
+
+**Bot de promoções**
+Assistente virtual no Telegram que interpreta com LLM o que o usuário procura, filtra grupos de promoção e envia as ofertas.
+`Telegram` `LLM` `APIs do Mercado Livre, Amazon e Shopee`
+
+**Iniciação Científica em Engenharia de Software (UFMS)**
+Pesquisa sobre a movimentação entre branches e o impacto da IA no desenvolvimento de software.
+`Git` `Análise de branches`
+
+**PET Saúde Digital (UFMS)**
+Pipelines de análise e automação de cálculos com dados do SIVEP-Gripe para Unidades Básicas de Saúde.
+`Python` `Pandas` `Matplotlib` `Excel`
 
 ## Stack
 
 - **IA e LLMs:** Gemini API, OpenRouter, prompt engineering, avaliação de LLMs, agentes de IA, desenvolvimento assistido por IA
-- **Automação e dados:** n8n, APIs REST, Telegram, web scraping, ETL, Pandas, Matplotlib
-- **Linguagens:** Python, SQL, TypeScript, C/C++, PHP, Java, R
+- **Automação e dados:** n8n, APIs REST, web scraping, ETL, Pandas, SQL
+- **Linguagens:** Python, TypeScript, C/C++, PHP, Java, R
 - **Web e ferramentas:** React, Next.js, Git, Docker
-- **Embarcados:** ESP32, Arduino
-
-## Onde apliquei
-
-- **LIA, UFMS:** sistema com LLMs para análise de processos do TJMS. Python, prompt engineering, avaliação de LLMs.
-- **Tecsinapse (freelance):** agente de IA com consulta a banco de dados no n8n. OpenRouter, prompt engineering.
-- **Balança inteligente, UFMS:** sistema de pesagem com ESP32 e integração de LLM.
-- **Bot de promoções:** Telegram, LLM e APIs do Mercado Livre, Amazon e Shopee.
-- **Iniciação Científica, UFMS:** branches e impacto da IA no desenvolvimento de software.
-- **PET Saúde Digital, UFMS:** pipelines de dados do SIVEP-Gripe. Python, Pandas.
 
 ## Contato
 
@@ -30,25 +47,42 @@ Engenharia de software com foco em IA generativa e aplicações baseadas em LLMs
 
 # Guilherme de Souza Cintra
 
-Computer Engineering student at UFMS (expected graduation in 2028).
-Software engineering focused on generative AI and LLM-based applications. Advanced English.
+## About me
+
+Computer Engineering undergraduate at UFMS. I develop research projects and solutions to real-world problems using LLMs.
+
+## Projects
+
+**TJMS case analysis (LIA, UFMS)**
+LLM-based system to support the analysis of court cases from the Court of Justice of Mato Grosso do Sul.
+`Python` `Prompt engineering` `LLM evaluation`
+
+**Virtual assistant with database access (Tecsinapse, freelance)**
+AI agent that queries a database, used as an assistant for an automotive company.
+`n8n` `OpenRouter` `GPT mini` `Prompt engineering` `Database`
+
+**Smart scale (UFMS)**
+Weighing system that integrates hardware and an LLM into the operational flow.
+`ESP32` `Load sensors` `LLM integration`
+
+**Promotions bot**
+Telegram virtual assistant that uses an LLM to interpret what the user is looking for, filters promotion groups and delivers the deals.
+`Telegram` `LLM` `Mercado Livre, Amazon and Shopee APIs`
+
+**Undergraduate Research in Software Engineering (UFMS)**
+Research on branch movement and the impact of AI on software development.
+`Git` `Branch analysis`
+
+**PET Saúde Digital (UFMS)**
+Analysis pipelines and calculation automation with SIVEP-Gripe data for primary health units.
+`Python` `Pandas` `Matplotlib` `Excel`
 
 ## Stack
 
 - **AI and LLMs:** Gemini API, OpenRouter, prompt engineering, LLM evaluation, AI agents, AI-assisted development
-- **Automation and data:** n8n, REST APIs, Telegram, web scraping, ETL, Pandas, Matplotlib
-- **Languages:** Python, SQL, TypeScript, C/C++, PHP, Java, R
+- **Automation and data:** n8n, REST APIs, web scraping, ETL, Pandas, SQL
+- **Languages:** Python, TypeScript, C/C++, PHP, Java, R
 - **Web and tools:** React, Next.js, Git, Docker
-- **Embedded:** ESP32, Arduino
-
-## Where I applied it
-
-- **LIA, UFMS:** LLM-based system for analyzing TJMS court cases. Python, prompt engineering, LLM evaluation.
-- **Tecsinapse (freelance):** AI agent with database querying in n8n. OpenRouter, prompt engineering.
-- **Smart scale, UFMS:** weighing system with ESP32 and LLM integration.
-- **Promotions bot:** Telegram, LLM and Mercado Livre, Amazon and Shopee APIs.
-- **Undergraduate Research, UFMS:** branches and the impact of AI on software development.
-- **PET Saúde Digital, UFMS:** SIVEP-Gripe data pipelines. Python, Pandas.
 
 ## Contact
 
