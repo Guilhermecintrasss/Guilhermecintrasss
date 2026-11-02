@@ -1,79 +1,55 @@
-[Português](#olá-sou-guilherme-de-souza-cintra-) | [English](#hi-im-guilherme-de-souza-cintra-)
-<br>
-# Olá, Sou Guilherme de Souza Cintra 👋
+[Português](#guilherme-de-souza-cintra) | [English](#guilherme-de-souza-cintra-1)
 
-🎓 **Estudante de Engenharia de Computação — UFMS**
+# Guilherme de Souza Cintra
 
-Sou desenvolvedor com formação técnica em Informática pelo IFSP e atualmente cursando o 5º semestre de Engenharia de Computação. Tenho interesse em desenvolvimento backend, APIs, análise de dados e automação, buscando sempre aplicar lógica, organização e boas práticas de desenvolvimento.
+Estudante de Engenharia de Computação na UFMS (formatura prevista em 2028).
+Engenharia de software com foco em IA generativa e aplicações baseadas em LLMs. Inglês avançado.
 
----
+## Stack
 
-### 🚀 Tecnologias e Conhecimentos
+- **IA e LLMs:** Gemini API, OpenRouter, prompt engineering, avaliação de LLMs, agentes de IA, desenvolvimento assistido por IA
+- **Automação e dados:** n8n, APIs REST, Telegram, web scraping, ETL, Pandas, Matplotlib
+- **Linguagens:** Python, SQL, TypeScript, C/C++, PHP, Java, R
+- **Web e ferramentas:** React, Next.js, Git, Docker
+- **Embarcados:** ESP32, Arduino
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+## Onde apliquei
 
-* **Desenvolvimento Web & UI:** Criação de interfaces dinâmicas e modernas utilizando **React**.
-* **Automação & Workflow:** Design de fluxos automatizados e integração de sistemas via **n8n**.
-* **Lógica & Backend:** Estruturas de Dados, Integração de APIs (REST) e desenvolvimento em PHP/C++.
-* **Dados:** Processamento de grandes bases de dados com **Python (Pandas)** e modelagem SQL.
+- **LIA, UFMS:** sistema com LLMs para análise de processos do TJMS. Python, prompt engineering, avaliação de LLMs.
+- **Tecsinapse (freelance):** agente de IA com consulta a banco de dados no n8n. OpenRouter, prompt engineering.
+- **Balança inteligente, UFMS:** sistema de pesagem com ESP32 e integração de LLM.
+- **Bot de promoções:** Telegram, LLM e APIs do Mercado Livre, Amazon e Shopee.
+- **Iniciação Científica, UFMS:** branches e impacto da IA no desenvolvimento de software.
+- **PET Saúde Digital, UFMS:** pipelines de dados do SIVEP-Gripe. Python, Pandas.
 
----
+## Contato
 
-### 📊 Projetos Atuais
-* **PET Saúde Digital (UFMS):** Atuo na análise e processamento de dados (SIVEP-Gripe) para melhoria de Unidades Básicas de Saúde.
-* **Integração IA:** Desenvolvimento de aplicações utilizando a API do Gemini para automação e análise inteligente.
+[LinkedIn](https://www.linkedin.com/in/guilherme-de-souza-cintra/) · [Portfólio](https://guilhermescintra.vercel.app) · [guilhermecintrass@gmail.com](mailto:guilhermecintrass@gmail.com)
 
 ---
 
-### 📫 Contato
+# Guilherme de Souza Cintra
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-souza-cintra/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermecintras)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecintrass@gmail.com)
-<br>
-<br>
+Computer Engineering student at UFMS (expected graduation in 2028).
+Software engineering focused on generative AI and LLM-based applications. Advanced English.
 
----
+## Stack
 
-<br>
+- **AI and LLMs:** Gemini API, OpenRouter, prompt engineering, LLM evaluation, AI agents, AI-assisted development
+- **Automation and data:** n8n, REST APIs, Telegram, web scraping, ETL, Pandas, Matplotlib
+- **Languages:** Python, SQL, TypeScript, C/C++, PHP, Java, R
+- **Web and tools:** React, Next.js, Git, Docker
+- **Embedded:** ESP32, Arduino
 
-# Hi, I'm Guilherme de Souza Cintra 👋
+## Where I applied it
 
-🎓 **Computer Engineering Student — UFMS**
+- **LIA, UFMS:** LLM-based system for analyzing TJMS court cases. Python, prompt engineering, LLM evaluation.
+- **Tecsinapse (freelance):** AI agent with database querying in n8n. OpenRouter, prompt engineering.
+- **Smart scale, UFMS:** weighing system with ESP32 and LLM integration.
+- **Promotions bot:** Telegram, LLM and Mercado Livre, Amazon and Shopee APIs.
+- **Undergraduate Research, UFMS:** branches and the impact of AI on software development.
+- **PET Saúde Digital, UFMS:** SIVEP-Gripe data pipelines. Python, Pandas.
 
-I am a developer with a technical background in IT from IFSP and currently in my 5th semester of Computer Engineering. My main interests are backend development, APIs, data analysis, and automation, always focusing on clean logic, structured development, and problem-solving.
+## Contact
 
----
-
-### 🚀 Technologies & Skills
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-* **Web Development & UI:** Building dynamic and modern interfaces using **React**.
-* **Automation & Workflow:** Designing automated workflows and system integrations via **n8n**.
-* **Logic & Backend:** Data Structures, API Integration (REST), and PHP/C++ development.
-* **Data:** Large-scale data processing with **Python (Pandas)** and Relational Database modeling.
-
----
-
-### 📊 Current Projects
-* **Digital Health (PET Saúde Digital - UFMS):** Working on data analysis and processing (public health databases) to improve health units.
-* **AI Integration:** Developing applications exploring the Gemini API and intelligent automation.
-
----
-
-### 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-de-souza-cintra/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermecintras)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecintrass@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/guilherme-de-souza-cintra/) · [Portfolio](https://guilhermescintra.vercel.app) · [guilhermecintrass@gmail.com](mailto:guilhermecintrass@gmail.com)
